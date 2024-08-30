@@ -1,0 +1,49 @@
+BODY{
+    COLOR: BLACK;
+    BACKGROUD: WHITE;
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    border: solid 1px pink;
+    font-size: 26px;
+}
+
+.CHAMADA{
+    background-color: pink;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    margin-right: 20px;
+}
+H1{
+    font-size: xx-large;
+}
+P{ 
+    font-size: 25PX;
+}
+img{
+    height: 180px;
+}
+
+. CATEGORIA-VIDEOS{
+    DISPLEY: FLEX;
+    GAP: 60PX
+    OVERFLOW-X: AUTO;
+}
+. CATEGORIA {
+PADDING-LEFT: 20px;
+padding-right: 20PX;
+}
+
+.categoria-videos img {
+    opacity: 1.0;
+}
+.categoria-videos IMG :hover{
+OPACITY 1.0
+border: 1PX SOLID BLACK;
+}
